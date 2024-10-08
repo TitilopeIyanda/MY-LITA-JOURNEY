@@ -9,9 +9,7 @@
 #### [DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
 #### [EXPLORATORY OF DATA ANALYSIS](#exploratory-of-data-analysis)
 #### [DATA ANALYSIS](#data-analysis)
-
-
-
+#### [DATA VISUALIZATION](#data-visualization)
 
 ### PROJECT OVERVIEW
 ---
@@ -73,3 +71,4 @@ values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
 ( 'AB281', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09')
 ~~~
 
+### DATA VISUALIZATION:
