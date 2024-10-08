@@ -4,6 +4,7 @@
  ### PROJECT TITLE:BASICS OF EXCEL ANALYTICAL TOOL
 ---
 ### MY OUTLINE
+---
 #### [PROJECT OVERVIEW](#project-overview)
 #### [DATA SOURCES](#data-sources)
 #### [TOOLS USED](#tools-used)
@@ -73,8 +74,8 @@ values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
 ~~~
 
 ### DATA VISUALIZATION:
-![Screenshots of data analysis trainings]
 
+![Query to create Employee Table](https://github.com/user-attachments/assets/9a9d371c-8958-4766-8ecd-0deff5639564)
 
-![Query to create Employee Table](https://github.com/user-attachments/assets/5152520a-d59b-48a1-ab98-8c42745d546d)
+![outcome of the above query](https://github.com/user-attachments/assets/2503a695-06a2-46ec-ad98-c6dbf1f01ff0)
 
