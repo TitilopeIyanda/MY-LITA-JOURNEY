@@ -1,3 +1,4 @@
+
 # MY-LITA-JOURNEY
 ---
  ### PROJECT TITLE:BASICS OF EXCEL ANALYTICAL TOOL
@@ -72,3 +73,8 @@ values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
 ~~~
 
 ### DATA VISUALIZATION:
+![Screenshots of data analysis trainings]
+
+
+![Query to create Employee Table](https://github.com/user-attachments/assets/5152520a-d59b-48a1-ab98-8c42745d546d)
+
