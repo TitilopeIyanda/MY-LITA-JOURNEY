@@ -3,7 +3,7 @@
 ### MY ACQUIRED KNOWLEDGE ON LITA PROJECT
 ---
 
-This is where i documented my Data Analysis Ana
+
 
 #### DATA ANALYSIS OVERVIEW
 
